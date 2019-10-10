@@ -1,5 +1,6 @@
 # cscd-311-project-api
-This repo contains a project assignment
+This repo contains a project assignment.
+On a residential registration portal's api in nodejs
 
 ## Details
 Index Number - 10671406, Name - Joojo Quartey
